@@ -8,7 +8,7 @@ Hello! We are Buenro, a startup pioneering a platform for a vibrant community of
 At Buenro, we thrive as a fully remote company, embracing asynchronous operations. Our digital interactions are robust, yet the allure of in-person connections brings us together during team retreats at our base in Ibiza. This unique space doubles as a lab, where we fine-tune co-living experiences to ensure our platform resonates with the real-world needs of our community. Our team's global footprint extends to Bali and is soon branching into Europe and Asia, as we co-locate and build our own community. This evolving camaraderie is our take on a traditional office, encapsulating our longing for community while navigating the digital frontier.
 
 
-![Buenro Ibiza Base](![image](https://github.com/user-attachments/assets/95385fc0-3e42-4d28-b88c-bf475fcd2aae))
+![image](https://github.com/user-attachments/assets/95385fc0-3e42-4d28-b88c-bf475fcd2aae)
 
 ## Digital Lease & Social Platform 🏡🌐
 
@@ -16,7 +16,7 @@ Led by our founder Paula, Buenro is on a mission to craft a digital lease and so
 
 ## Join our Tribe! 🤝
 
-![Buenro Team in Ibiza](![image](https://github.com/user-attachments/assets/3ee2f53c-38ae-4e45-80fa-f037eaca707f))
+![image](https://github.com/user-attachments/assets/3ee2f53c-38ae-4e45-80fa-f037eaca707f)
 
 
 Are you a talented software engineer passionate about leveraging technology to foster real-world connections? Do you thrive in innovative, remote, and community-driven environments? We'd love to hear from you!
